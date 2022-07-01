@@ -1,0 +1,11 @@
+:root {
+  --green-color: #5ece7b;
+  --checked-black:  #1D1F22;
+}
+
+.active {
+    color: var(--green-color);
+    padding-bottom: 30px;
+    border-bottom: 2px solid var(--green-color);
+  }
+
